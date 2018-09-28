@@ -1,0 +1,46 @@
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.exe.config
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.exe
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.pdb
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.csprojResolveAssemblyReference.cache
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.exe
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.pdb
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.exe.config
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.exe
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.pdb
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\Newtonsoft.Json.dll
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\Newtonsoft.Json.xml
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.csprojResolveAssemblyReference.cache
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.csproj.CoreCompileInputs.cache
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.exe
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.pdb
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\KloutSharp.Lib.dll
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Extensions.dll
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Primitives.dll
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\KloutSharp.Lib.pdb
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Extensions.xml
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\KloutSharp.Lib.dll
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\KloutSharp.Lib.pdb
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\vfield\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Primitives.xml
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\MySql.Data.dll
+G:\School\ITEC 471\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\MySql.Data.xml
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.exe.config
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.exe
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\CryproProcessor.pdb
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\KloutSharp.Lib.dll
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\KloutSharp.Lib.pdb
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\MySql.Data.xml
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.exe
+C:\Users\Tripp\Desktop\dev\tradeblazer\csharp\CryproProcessor\CryproProcessor\obj\Debug\CryproProcessor.pdb
